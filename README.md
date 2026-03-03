@@ -20,12 +20,12 @@
 
 | 프로젝트 명 | 기간 | 핵심 기술 |
 | :--- | :--- | :--- |
-| **📦 UNBOX** | 2025.12 - 2026.02 | EKS, Kafka, Linkerd, Terraform |
-| **🤖 MLOps CI/CD** | 2025.07 - 2025.10 | K8s, GitHub Actions, Prometheus |
-| **📞 Vidie-Audie** | 2024.03 - 2024.07 | Flask, OpenAI API, React |
-| **🛍️ groupbuy** | 2021.03 - 2021.07 | React.js, HTML, CSS |
-| **❓ qurios** | 2024.06 - 2024.06 | React.js, HTML, CSS |
-| **📺 channelRecommend** | - | Flask, OpenAI, MongoDB |
+| **[UNBOX](https://github.com/team4-coding-gamja/UNBOX-INFRA)** | 2025.12 - 2026.02 | EKS, Kafka, Linkerd, Terraform |
+| **[MLOps CI/CD](https://github.com/nacgyun/mlopsgit)** | 2025.07 - 2025.10 | K8s, GitHub Actions, Prometheus |
+| **[Vidie-Audie](https://github.com/saeoki/Vidie-Audie)** | 2024.03 - 2024.07 | Flask, OpenAI API, React |
+| **[groupbuy](https://github.com/nacgyun/groupbuy)** | 2025.07 - 2021.11 | Solidity, Geth, Web3, React.js |
+| **[qurios](https://github.com/nacgyun/qurios)** | 2024.06 - 2024.06 | React.js, HTML, CSS |
+| **[channelRecommend](https://github.com/nacgyun/channelRecommend)** | - | Flask, OpenAI, MongoDB |
 ---
 ### 📫 Contact Me
 - **Email:** nacgyun001@gmail.com
