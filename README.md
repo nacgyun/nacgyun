@@ -27,7 +27,7 @@
 | **[qurios](https://github.com/nacgyun/qurios)** | 2025.06 - 2025.06 | React.js, HTML, CSS |
 | **[groupbuy](https://github.com/nacgyun/groupbuy)** | 2025.05 - 2025.06 | Solidity, Geth, Web3, React.js |
 | **[Vidie-Audie](https://github.com/saeoki/Vidie-Audie)** | 2024.03 - 2024.07 | Flask, OpenAI API, React |
-| **[channelRecommend](https://github.com/nacgyun/channelRecommend)** | - | Flask, OpenAI, MongoDB |
+| **[channelRecommend](https://github.com/nacgyun/channelRecommend)** | - | React.js, HTML, CSS |
 ---
 ### 📫 Contact Me
 - **Email:** nacgyun001@gmail.com
