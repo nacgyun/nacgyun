@@ -20,6 +20,7 @@
 
 | 프로젝트 명 | 기간 | 핵심 기술 |
 | :--- | :--- | :--- |
+| **[LanderAI](https://landerai.un-box.click)** | 2026.06 - 2026.09 | Lambda, DynamoDB, Fast API, Terraform, Step Functions |
 | **[SomeDay](https://github.com/someday-health-care/SomeDay-FE)** | 2026.04 - 2026.04 | React.js, Vite |
 | **[UNBOX](https://github.com/team4-coding-gamja/UNBOX-INFRA)** | 2025.12 - 2026.02 | EKS, Kafka, Linkerd, Terraform |
 | **[MLOps CI/CD](https://github.com/nacgyun/mlopsgit)** | 2025.07 - 2025.10 | K8s, GitHub Actions, Prometheus |
