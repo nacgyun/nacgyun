@@ -23,8 +23,8 @@
 | **[SomeDay](https://github.com/someday-health-care/SomeDay-FE)** | 2026.04 - 2026.04 | React.js, Vite |
 | **[UNBOX](https://github.com/team4-coding-gamja/UNBOX-INFRA)** | 2025.12 - 2026.02 | EKS, Kafka, Linkerd, Terraform |
 | **[MLOps CI/CD](https://github.com/nacgyun/mlopsgit)** | 2025.07 - 2025.10 | K8s, GitHub Actions, Prometheus |
+| **[groupbuy](https://github.com/nacgyun/groupbuy)** | 2025.05 - 2025.06 | Solidity, Geth, Web3, React.js |
 | **[Vidie-Audie](https://github.com/saeoki/Vidie-Audie)** | 2024.03 - 2024.07 | Flask, OpenAI API, React |
-| **[groupbuy](https://github.com/nacgyun/groupbuy)** | 2025.07 - 2021.11 | Solidity, Geth, Web3, React.js |
 | **[qurios](https://github.com/nacgyun/qurios)** | 2024.06 - 2024.06 | React.js, HTML, CSS |
 | **[channelRecommend](https://github.com/nacgyun/channelRecommend)** | - | Flask, OpenAI, MongoDB |
 ---
